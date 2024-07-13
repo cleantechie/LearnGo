@@ -12,3 +12,5 @@ Same as C
 printf: prints o/p to console
 sprintf: prints o/p to a string buffer
 fprintf:  prints o/p to a file buffer
+
+map[key-type]value-type
