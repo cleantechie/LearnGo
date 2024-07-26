@@ -4,5 +4,4 @@ use (
 	./Hello
 	./databaseWIthSingleConnection
 	./databaseWithConnectionPool
-	./example/hello
 )
